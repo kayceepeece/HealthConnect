@@ -1,0 +1,6 @@
+{
+  "name": "MedGov Central EHR",
+  "description": "A government-governed centralized Electronic Health Record (EHR) platform connecting patients, accredited hospitals, doctors, and diagnostic laboratories with transparent consent and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
